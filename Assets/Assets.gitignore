@@ -1,9 +1,0 @@
-# Ignore everything in the project root except for specific directories
-/*
-!/_Data/
-!/_Scenes/
-
-# Ignore everything in directories other than _Data and _Scenes
-**/*
-!/_Data/**
-!/_Scenes/**
