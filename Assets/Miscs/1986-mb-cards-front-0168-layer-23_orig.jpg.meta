@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,322 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de7bb813c89674db1019fe80e9790b
+      internalID: 1489582375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1116
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7083bfb80112b44aa41768718a292b2
+      internalID: -882196487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1116
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154eab85f4b5674b84fd6ca2c35e50f
+      internalID: 2034187040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae8a078ae508d64082bed076b80a1d2
+      internalID: 609605290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 837
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac11a4258d9b546b02f59c0f23f533
+      internalID: 1853893757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 837
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f415e822df2945bf061febfe9d751
+      internalID: 149392030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82cba78556cc91439a251b63a7bf4fa
+      internalID: 506950384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 558
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb86d5cd91f14164cac305ec57069caf
+      internalID: -566938557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 558
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4947d75300c34cb43fe0eaa8f159d
+      internalID: -2132074980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7668f296331d1c4d8531eb2525d9383
+      internalID: 1241978041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 279
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7cfaeed1b36f44a860fcecfdd3f5fa
+      internalID: 1390634576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 279
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37acefdc79b78de47a7d4c09c4772f03
+      internalID: -1064867337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa16adeff00d140b5a468042cfc7f5
+      internalID: -897574929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17655a69597d13429a45e19feb2ee09
+      internalID: 1701917183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1986-mb-cards-front-0168-layer-23_orig_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 333.33334
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf7374e31313846be88966a8eda7dc
+      internalID: 691834723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +434,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1986-mb-cards-front-0168-layer-23_orig_0: 1489582375
+      1986-mb-cards-front-0168-layer-23_orig_1: -882196487
+      1986-mb-cards-front-0168-layer-23_orig_10: 1390634576
+      1986-mb-cards-front-0168-layer-23_orig_11: -1064867337
+      1986-mb-cards-front-0168-layer-23_orig_12: -897574929
+      1986-mb-cards-front-0168-layer-23_orig_13: 1701917183
+      1986-mb-cards-front-0168-layer-23_orig_14: 691834723
+      1986-mb-cards-front-0168-layer-23_orig_2: 2034187040
+      1986-mb-cards-front-0168-layer-23_orig_3: 609605290
+      1986-mb-cards-front-0168-layer-23_orig_4: 1853893757
+      1986-mb-cards-front-0168-layer-23_orig_5: 149392030
+      1986-mb-cards-front-0168-layer-23_orig_6: 506950384
+      1986-mb-cards-front-0168-layer-23_orig_7: -566938557
+      1986-mb-cards-front-0168-layer-23_orig_8: -2132074980
+      1986-mb-cards-front-0168-layer-23_orig_9: 1241978041
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
